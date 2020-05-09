@@ -16,10 +16,12 @@ $ cd stats
 # Running
 
 ```
-$ ./path/to/deno run index.ts
+$ ./path/to/deno run src/index.ts
 ```
 
-# Roadmap
+# Todo
 
-[ ] API key functionality
-[ ] Fancy full-color unicode display
+- [ ] API key functionality
+- [ ] Commandline argument parser
+- [ ] A wide range of available statistics to grab
+- [ ] Colorized braille graphs
